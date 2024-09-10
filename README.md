@@ -19,4 +19,4 @@ På våra föreläsningar har vi fått lära oss om simpla terminalkommandon.
 
 *pwd* (Print Working Directory) - Visar vilken aktuell sökväg du befinner dig
 
-*rm/rmdir* (remove) [filnamn/mapp] - Tar bort en mapp
+*rm/rmdir* (remove) [filnamn/mapp] - Tar bort en fil/mapp
