@@ -32,9 +32,20 @@ Källa: Kille på youtube - https://youtu.be/kqW9uV9IVtU?feature=shared
 
 ### Några Git kommandon du lärt dig under föreläsningarna
 
+`git add .` - Stagear alla filer med ändringar
 
-git add
-git commit
-git merge
-git push
-git pull
+`git commit -m "message"` - Sparar ändringarna i git med ett meddelande på vad man gjort
+
+`git merge [other branch]` - Sammansvettsar två grenar
+
+`git push` - Sparar den lokala sparningen upp mot ett GitHub repository
+
+`git pull` - Drar en version från GitHub repository som du kan programmera i.
+
+### Några git kommandon jag lärt mig själv
+
+`git fetch` - Hämtar uppdateringar/commits från fjärrstyrd repo/branch som sparas i ens lokala repository utan att sammanfoga med ditt pågående arbete. (1)
+
+Källa
+(1) Greg Hewgill, Mouna Cheikhna /-Mateen Ulhaq
+https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
