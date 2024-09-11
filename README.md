@@ -49,3 +49,5 @@ Källa: Kille på youtube - https://youtu.be/kqW9uV9IVtU?feature=shared
 Källa
 (1) Greg Hewgill, Mouna Cheikhna /-Mateen Ulhaq
 https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
+
+![Picture of a cat with sunglasses and lettucehat](lBKYb.jpg)
