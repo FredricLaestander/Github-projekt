@@ -24,11 +24,12 @@
 
 ### Terminalkommandon jag lärt mig på egenhand är kommandon som:
 
-`clear` - Rensar terminalen
+`clear` - Rensar terminalen (1)
 
-`touch` [filnamn] - Skapar tomma filer
+`touch` [filnamn] - Skapar tomma filer (1)
 
-Källa: Kille på youtube - https://youtu.be/kqW9uV9IVtU?feature=shared
+Källa:
+(1) Kille på youtube - https://youtu.be/kqW9uV9IVtU?feature=shared
 
 ### Några Git kommandon du lärt dig under föreläsningarna
 
@@ -44,8 +45,20 @@ Källa: Kille på youtube - https://youtu.be/kqW9uV9IVtU?feature=shared
 
 ### Några git kommandon jag lärt mig själv
 
-`git fetch` - Hämtar uppdateringar/commits från fjärrstyrd repo/branch som sparas i ens lokala repository utan att sammanfoga med ditt pågående arbete. (1)
+`git fetch` - Hämtar uppdateringar/commits från fjärrstyrd repo/branch som sparas i ens lokala repository utan att sammanfoga med ditt pågående arbete. (2)
 
 Källa
-(1) Greg Hewgill, Mouna Cheikhna /-Mateen Ulhaq
+(2) Greg Hewgill, Mouna Cheikhna /-Mateen Ulhaq
 https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch
+
+### Något mer om Github och Markdown som jag lärt mig
+50% av Githubs inkomster kommer från __Github Enterprise__ som är en lokal/molntjänst som erbjuder live-support dygnet runt, obegränsat med arkiv, publika och privata. (3)
+
+Man kan använda markdown för att skapa hemsidor, presentationer och mail meddelanden. Det är ett enkelt att använda och kräver inte nödvändigtvis kunskap i kommandon för att användas. Markdown filer är väldigt lätta och portabla vilket gör dom otroligt universala när det kommer till formatering. Så länge programmet stödjer ren text så kan du använda markdowns! (4)
+
+Källa:
+(3) Billion Dollar Unicorns: Hur tjänar GitHub pengar/ Surya Bansal, Medium
+https://bansalsurya.medium.com/billion-dollar-unicorns-how-does-github-make-money-a-timeline-8b21beffa8ba
+
+(4) Intro to Markdown, Benefits & Drawbacks/ Sully Vickers, Leidos
+https://www.linkedin.com/pulse/intro-markdown-benefits-drawbacks-sully-vickers/
