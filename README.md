@@ -62,3 +62,5 @@ https://bansalsurya.medium.com/billion-dollar-unicorns-how-does-github-make-mone
 
 (4) Intro to Markdown, Benefits & Drawbacks/ Sully Vickers, Leidos
 https://www.linkedin.com/pulse/intro-markdown-benefits-drawbacks-sully-vickers/
+
+![Picture of a cat with sunglasses and lettucehat](lBKYb.jpg)
