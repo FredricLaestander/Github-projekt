@@ -5,15 +5,15 @@
 
 | Kommando | Beskrivning |
 | :--- | :--- |
-|`cd` (change directory) [mapp] | Används för att röra dig __frammåt__ |
-|`cd ..` | __Gå backåt__ ett steg. Går även att förlänga med "/.."|
+|`cd` [mapp] | (Change directory) Används för att röra dig __frammåt__ |
+|`cd` `..` | __Gå backåt__ ett steg. Går även att förlänga med "/.."|
 |`echo` [meddelande] | används för att visa ett meddelande eller sätta på/stänga av meddelanden.|
-|`ls` (list) | Visar en lista av det finns i utforskaren. För att visa hela listan skriver man istället `"ls -la"` som visar __allt__, dolda och icke-dolda dokument. |
-|`md/mkdir` [filnamn] | används för att  skapa en mapp |
-|`mv` (move) [gammal_path] [ny_path] | Används för att flytta/byta namn på en fil/mapp. Räknas som ett __destruktivt program__ då det kan skriva över gammal data med ny data utan varning om man flyttar den till en plats där det redan finns en mapp med samma namn.|
+|`ls` | (List) Visar en lista av det finns i utforskaren. För att visa hela listan skriver man istället `"ls -la"` som visar __allt__, dolda och icke-dolda dokument. |
+|`md`/`mkdir` [filnamn] | används för att  skapa en mapp |
+|`mv` [gammal_path] [ny_path] | (Move) Används för att flytta/byta namn på en fil/mapp. Räknas som ett __destruktivt program__ då det kan skriva över gammal data med ny data utan varning om man flyttar den till en plats där det redan finns en mapp med samma namn.|
 `nano` [filnamn] | Öppnar upp [filnamn] för att redigera det direkt från terminalen |
-|`pwd` (Print Working Directory) | Visar vilken aktuell sökväg du befinner dig|
-|`rm/rmdir` (remove) [filnamn/mapp] | Tar bort en fil/mapp|
+|`pwd` | (Print Working Directory) Visar vilken aktuell sökväg du befinner dig|
+|`rm`/`rmdir` [filnamn/mapp] | (Remove) Tar bort en fil/mapp|
 
 
 ### Terminalkommandon jag lärt mig på egenhand är kommandon som:
@@ -30,9 +30,9 @@ Källa:
 | :--- | :--- |
 |`git add .` | Stagear alla filer med ändringar |
 |`git commit -m "message"` | Sparar ändringarna i git med ett meddelande på vad man gjort |
-| `git merge [other branch]` | Sammansvettsar två grenar |
-|`git push` | Sparar den lokala sparningen upp mot ett GitHub repository |
+|`git merge` [other branch] | Sammansvettsar två grenar |
 |`git pull` | Drar en version från GitHub repository som du kan programmera i. |
+|`git push` | Sparar den lokala sparningen upp mot ett GitHub repository |
 
 ### Några git kommandon jag lärt mig själv
 
