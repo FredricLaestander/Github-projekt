@@ -33,7 +33,8 @@ Källa:
 
 ### Några Git kommandon du lärt dig under föreläsningarna
 
-`git add .` - Stagear alla filer med ändringar
+|`git add .` | Stagear alla filer med ändringar |
+| --- | --- |
 
 `git commit -m "message"` - Sparar ändringarna i git med ett meddelande på vad man gjort
 
